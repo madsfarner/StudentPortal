@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentPortal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_portal">NewPortalActivity</string>
+    <string name="newPortalName">Name of new portal:</string>
+    <string name="newPortalUrl">URL for new portal:</string>
+    <string name="placeholderName">Name</string>
+    <string name="placeholderUrl">URL</string>
+    <string name="needName">You need to enter a name</string>
+    <string name="needUrl">You need to enter a URL</string>
+</resources>
